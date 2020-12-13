@@ -1,0 +1,14 @@
+body {
+    background: #000;
+    font-family: 'Orbitron', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.clock {
+  transform: scale(2);
+  /*border: 1px solid #ccc;*/
+  padding: 5px,10px;
+  color: #32cd32;
+}
